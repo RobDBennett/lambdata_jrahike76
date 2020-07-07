@@ -4,11 +4,11 @@ Version: 0.0.1
 Summary: A collection of Data Science helper functions
 Home-page: https://github.com/JraHike76/lambdata_jrahike76
 Author: Jay Adamo
-License: UNKNOWN
+License: MIT
 Description: # lambdata-jrahike76
         A python package with useful DS options
         
-Platform: UNKNOWN
+Platform: Ubuntu
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
